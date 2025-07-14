@@ -361,7 +361,7 @@ document.querySelectorAll(".social-btn").forEach((btn) => {
     btn.disabled = true;
 
     setTimeout(() => {
-      alert(`${provider} girişi burada uygulanacak`);
+      alert(`${provider} amk demo sitesi nereye bağlanıcan`);
       btn.innerHTML = originalContent;
       btn.disabled = false;
     }, 1500);
