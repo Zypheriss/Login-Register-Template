@@ -24,7 +24,7 @@
 <details>
 <summary><strong>📂 Dosya Yapısı</strong></summary>
 
-
+```plaintext
 📁 zypheris-login-ui
 ├── index.html
 ├── styles.css
@@ -35,6 +35,7 @@
     ├── google-icon.png
     ├── facebook-icon.png
     └── discord-icon.png
+</details> ```
 
 yaml
 Kopyala
