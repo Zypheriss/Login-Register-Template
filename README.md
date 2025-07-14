@@ -24,15 +24,17 @@
 <details>
 <summary><strong>📂 Dosya Yapısı</strong></summary>
 
+```plaintext
+📁 zypheris-login-ui
 ├── index.html
 ├── styles.css
 ├── script.js
 └── images/
-├── zyp.png
-├── zyp-eye.png
-├── google-icon.png
-├── facebook-icon.png
-└── discord-icon.png
+    ├── zyp.png
+    ├── zyp-eye.png
+    ├── google-icon.png
+    ├── facebook-icon.png
+    └── discord-icon.png
 
 yaml
 Kopyala
