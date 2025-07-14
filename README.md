@@ -35,7 +35,7 @@
     ├── google-icon.png
     ├── facebook-icon.png
     └── discord-icon.png
-</details> ```
+
 
 yaml
 Kopyala
@@ -43,7 +43,7 @@ Düzenle
 </details>
 
 <details>
-<summary><strong>📸 Önizleme</strong></summary>
+</details> <details> <summary><strong>📸 Görseller (Örnek)</strong></summary>
 
 | Giriş Ekranı | Kayıt Ekranı |
 |-------------|--------------|
