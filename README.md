@@ -24,7 +24,7 @@
 <details>
 <summary><strong>📂 Dosya Yapısı</strong></summary>
 
-```plaintext
+
 📁 zypheris-login-ui
 ├── index.html
 ├── styles.css
